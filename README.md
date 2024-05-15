@@ -1,1 +1,1 @@
-# seguran-a_digital
+# gerador_de_senhas
